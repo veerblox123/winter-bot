@@ -1,0 +1,4 @@
+.env
+__pycache__/
+venv/
+# We removed free/, premium/, and .json from here so they CAN be uploaded

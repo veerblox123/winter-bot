@@ -1,0 +1,7 @@
+discord.py
+requests
+minecraft-protocol
+mojang
+colorama
+pillow
+aiohttp
